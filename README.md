@@ -18,4 +18,4 @@
 - JavaScript
 - Библиотека [fancyapps](https://fancyapps.com/)
 
-## Ссылка на сайт проекта: https://valeria-7.github.io/cinema/
+## Ссылка на сайт проекта: https://valeriaevs.github.io/cinema/
